@@ -42,4 +42,4 @@ https://www.microsoft.com/cognitive-services
 
 ## Examples using Cognitive Services nodes
 - MachineEye using Computer Vision API: http://www.instructables.com/id/MachineEye/?ALLSTEPS
-- Node-RED Docker image for Azure nodes: https://hub.docker.com/r/dwaiba/azureiot-nodered/
+- Node-RED Docker image for Azure nodes: __https://hub.docker.com/r/dwaiba/azureiot-nodered/__ https://hub.docker.com/r/dwaiba/node-red/
